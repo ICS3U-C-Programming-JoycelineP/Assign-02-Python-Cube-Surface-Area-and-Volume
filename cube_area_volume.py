@@ -6,6 +6,10 @@ import math
 
 
 def main():
+    # welcome message
+    print("Welcome to Joyceline's surface area and volume of a cube in programming!")
+    print("")
+
     # get the edge length of the cube from the user and convert to float
     edge_length = float(input("Enter the edge length of the cube (cm): "))
 
